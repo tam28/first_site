@@ -1,0 +1,31 @@
+body {
+	width:80%;
+	margin: 0 auto;
+}
+ol, ul {
+	list-style: circle;
+}
+
+h1, h5, p, a, li {font-family: 'Open-Sans', sans-serif;
+}
+h1 {font-size: 150%;
+	color:#ff0000;
+	line-height: 2.5em;
+	text-align: center;
+}
+
+h5 {font-size: 120%;
+   color: #333333;
+   
+}
+
+p, li, a {font-size: 100%;
+	   color: #333333;
+	   line-height: 1.5em;
+
+}
+a {color:#040ee8;
+}
+.links {width:30%;
+margin: 0 auto;
+}
